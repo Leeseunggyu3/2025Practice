@@ -1,0 +1,4716 @@
+fileFormatVersion: 2
+guid: c37baa64b5c0780439834897d57ca0d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_cerulean_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1927
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01580d7e390c0dd43a8d59cf7a2c07e7
+      internalID: -58552365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1927
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3badf60624750bf46b65ed4efa202279
+      internalID: 2032410772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1926
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9918bfb07b6504fa8876a8f0e18bd7
+      internalID: 354197560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1927
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e70718eca35da49a82bf49b3c33ff7
+      internalID: 457644263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_4
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1927
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a26515a0311de1459d2d012f67a5334
+      internalID: 1249052413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_5
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1927
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6200ffbb0236be540a0a7c2681fd28b0
+      internalID: 2090074310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_6
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1927
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e06c29667893c4eb1ee04d0628a311
+      internalID: 572790674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1927
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29675dd846402f747b0a71286e3871ae
+      internalID: -430541461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_8
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1927
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7277c1dc690abb49836fb95e08218e9
+      internalID: 681502349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_9
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1927
+        width: 103
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d3486dbffbaa349b82cb8e1a76b674
+      internalID: -1806440302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_10
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1926
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8091e397ff64ee54a997ee41ed8360bf
+      internalID: -1200507229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_11
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1926
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5750cf880f97d140a193935fa791552
+      internalID: 1103233180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_12
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1924
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f18fef5f22d1814abbc24ce98a006e0
+      internalID: 109737809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_13
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1926
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7ac9fa0af90ef4ea300a993ccd6c6e
+      internalID: 31774882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_14
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1926
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c074a810d76bd5047865d43d1c2f877c
+      internalID: -2130452573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_15
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1927
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7ab6f568e47c7458843d7c9b45a09c
+      internalID: -1441381721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1799
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ea676c8e328fa4984eefcce06a4368
+      internalID: -1268253033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1799
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06b7dba54e2f9140b3816678de031e9
+      internalID: 37308259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_18
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1799
+        width: 95
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee078a0c01e3fd4b934ef4a61ca62dc
+      internalID: 1745002431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_19
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1799
+        width: 83
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cd671fcdb2f6a4cb5a009301dda0a5
+      internalID: 1909615279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_20
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1799
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a435b149d847249992ecffb1bad9fc
+      internalID: -1227818180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_21
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1799
+        width: 95
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0aa2a17bb027b4ebc438a8682e2585
+      internalID: -1870900919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_22
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1798
+        width: 95
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443f992507517a24186a9ab205c57887
+      internalID: -1088812575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_23
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1799
+        width: 95
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1b202a47309624b983902e33e87c68
+      internalID: 151576113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_24
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1799
+        width: 95
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7e320e7d2d2f541a0f6996e0d39748
+      internalID: -1368131329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_25
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1799
+        width: 95
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67b1b9532730e14a9bd71b93b345fae
+      internalID: 2104757437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_26
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1799
+        width: 95
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eba8f402a7be6345a67b617a87308c6
+      internalID: 1064783850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_27
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1799
+        width: 95
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb33f63a3def814aa0796f3ed53b3b6
+      internalID: 57457894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1675
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759f7d5c65aacba42abdbc00253dc304
+      internalID: 1759192493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1677
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f805588d474bd2a498aad745c3a55583
+      internalID: 1561408102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1689
+        width: 102
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180240b308c976340947d293b2bf752e
+      internalID: -1551638194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_31
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1683
+        width: 109
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297aedadb31357a419dd37c117f93863
+      internalID: 259062253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_32
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1670
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aa81938e4e2e44f8453e7634e31561
+      internalID: 703511060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_33
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1673
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57ec06fb485b324c9874680ef197916
+      internalID: 1277193386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_34
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1669
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5d89035f3d6f347a2497caaaa6afa0
+      internalID: 330546542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_35
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1671
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b26f6da7185e94a879c4ab1e834c1a
+      internalID: 512662877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_36
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1671
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c2e75656ade424ea2843ff9105999a
+      internalID: 1213082459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_37
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1671
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e835b130ae73a8a409f1f08d9bf35a72
+      internalID: 2073321013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_38
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1671
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb342c9a9ee147542b94586aeadcb91c
+      internalID: 1056402318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_39
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1671
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697eeeb50435f1442927f1c2fd9e426c
+      internalID: 1574474523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_40
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1320
+        width: 405
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e638386bd4d8b2479ad9b9f6111b980
+      internalID: -978081608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_41
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1539
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f842271670c214cab5ef8c4d411cb8
+      internalID: 1339454666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1541
+        width: 85
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faf5a8fa866a5b4380cb3e6e6cd1e75
+      internalID: -1361952887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_43
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1543
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec316963f518fc459db5194b518c615
+      internalID: 1986077555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_44
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1543
+        width: 89
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14ad2c4ed90a354abebd1ab6b4233e6
+      internalID: 1211030529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_45
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1543
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697c3eb8a84d7104d92dd27443ad9637
+      internalID: 2085044081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_46
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1542
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f19b7391da8714d82542da16972dcb
+      internalID: 1137159261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_47
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1543
+        width: 89
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a281c5429b9d6f44ab1cfae7541efe8
+      internalID: -100318987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_48
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1543
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0668d529938c344486888c2a69a8b9a
+      internalID: 2056470516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_49
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1543
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a394309a964fe414c99e5ff50fd81ef4
+      internalID: 1399943319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_50
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1543
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950848feec5dced4f84fee8c28d641a3
+      internalID: 1155458498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_51
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1544
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7908da9bd6dc1bc4b98eb8c2d4f3b72d
+      internalID: -1440228132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_52
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1544
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c107be44a0593f44b705aabcb7007c2
+      internalID: -736037144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1415
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9a971c727d59146a36aedf4fed28bc
+      internalID: 255051561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_54
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1414
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb077390840720499c4fa3220afcd9e
+      internalID: -65441236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_55
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1413
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88444a68acccde34f9d95b1660e9f25d
+      internalID: 1842280039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_56
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1416
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91efc170e3e9f5048b66df351d41ff6d
+      internalID: 74011274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_57
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1415
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385bbb742d96cdf48b42b84476f72be5
+      internalID: -704313774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_58
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1414
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90286d26590a55498960d5f4c481bae
+      internalID: 630641068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_59
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1414
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6276293e2f1fc6b4dab72e969c245705
+      internalID: 1531755908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_60
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1414
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e0f97ff6379da4c975047e94a9f1d9
+      internalID: 1725615227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_61
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1415
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b8c224ef7f24d429b24d0dbd007526
+      internalID: 1157124430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_62
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1414
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e371b44b0ca4448b115178b15f6b92
+      internalID: -577068520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_63
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1415
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f59ad20c50f9cd4a9d655870f2c6f23
+      internalID: 824098657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_64
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1287
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1a8b74ae5afc54a8cd64c379bf002d
+      internalID: -538676822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_65
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1286
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374ddc103312dbb478748192bfad49c7
+      internalID: 750971404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_66
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1286
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9aa128e3a75e04aa6abee842f0e7db
+      internalID: 96269285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_67
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1286
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d25a5ef36d3959498833ca735489667
+      internalID: 212792052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_68
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1286
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda713aaa86aa33429bef0a220c858aa
+      internalID: -1164199308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_69
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1287
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6098b443bd9bb554a8ebea12bbb9ceaa
+      internalID: 1149790180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_70
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1287
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276285c030064c54f828c7568bc8dabb
+      internalID: 1156931658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_71
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1287
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdf61da6a5ed714bbd61f29597fee7c
+      internalID: 1785050938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_72
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1286
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635bdec2e93db35479d045a5a300e953
+      internalID: -848219535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_73
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1287
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dddedf928122ee4aa0e88317261399d
+      internalID: -1895323308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_74
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1287
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697e61ac3ba493e4495809a5556c205d
+      internalID: 1260971372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_75
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1287
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b132c2728203ce4fb3f73f97d86bb9e
+      internalID: -1229104669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_76
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1166
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa57a758612ef741bf82f59d2ea17f8
+      internalID: -1463906413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_77
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1164
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9738bfdcabae70449a66fb8ae4b322b
+      internalID: -565484143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_78
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1167
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae45450b8718c842bbb286495d23629
+      internalID: -1570222347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_79
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1168
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3d3ea82d3c0de439712561f985c31d
+      internalID: -2038668212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_80
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1166
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483abd84d899166418e86c8cd50f6e44
+      internalID: -591440439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_81
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1171
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24339ad3ac06b44ca39aec8e3f7fb5d
+      internalID: -1216880056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_82
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1159
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09665eaaa6205a44abaf2479c0821514
+      internalID: 721532324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_83
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1159
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580ef137670c7f943bb92fb3ffa671bd
+      internalID: 956553831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_84
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1159
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ffc29ee3cb8f24f99809890334efd1
+      internalID: 780369581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_85
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1159
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe5f83776ac59340b2940b63a0e9741
+      internalID: 1098016368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_86
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1159
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ffa376515345d42baceea337238dd6
+      internalID: -1513560157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_87
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1159
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6f66eee64defb48b6ab48652fe2834
+      internalID: 895645921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_88
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1036
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd6e85e4925bad468673e8be1f155f3
+      internalID: 1760353994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_89
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1036
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fc3b15d8121f147b2d0a039bb76e8d
+      internalID: 490752088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_90
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1036
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef65588a87d862846973b0e4a473ec1d
+      internalID: -418084838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_91
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1036
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68012be79791d934d943ab87d8aa1041
+      internalID: -1246587693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_92
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1036
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0456bda2bdc64634885e3b7da63c4e5a
+      internalID: -1249262335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_93
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1036
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9bf9f0b73fc514da81276238129815
+      internalID: 2136185747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_94
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1036
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0f4c34e85327a459d9b3bc8d39d47f
+      internalID: -1427340188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_95
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1036
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e7afd9f1893cd47a5d7f06b0934f74
+      internalID: 1789392140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_96
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1036
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3f5d93f046c6347bd160c628266061
+      internalID: 1143635074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_97
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1038
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c289aac821110424887f8de057de9e60
+      internalID: 1263812147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_98
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1031
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73ced395fefbfd4ea27e2cb62dcbc5e
+      internalID: -2061114534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_99
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1031
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59bbc088ea0c294eae455b3fbe8739b
+      internalID: -1104803234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_100
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1031
+        width: 95
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0ecb41b0f22634e9f3556053653d03
+      internalID: 176365911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_101
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1031
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3125879e2a9a34ba0ddae6a20e74c0
+      internalID: -1018999693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_102
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1031
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22700c1fffd1404478b25d9326ac8f6b
+      internalID: 587136940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_103
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 902
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8e1ec229cd2444eadbb95ae97d15ad
+      internalID: 946946081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_104
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 903
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41b3eab253136746acbeee06ac303cd
+      internalID: -1088416552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_105
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 903
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e2a77ca04aa174bb6e80432188c777
+      internalID: 391777733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_106
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 903
+        width: 82
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f95a9033c45054683b690d7e4e7a02
+      internalID: 1055676730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_107
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 903
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966c1db838e7eb84daa4f7304cbcc41a
+      internalID: -629588461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_108
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 902
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fa56d599ffb044e82689b5187ca41d
+      internalID: 1053226908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_109
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 903
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e89e1ebce46b148821d80a79601b13
+      internalID: -666994469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_110
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 909
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec7a67723463154d8d50bff1ee45d46
+      internalID: -115717435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_111
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 909
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba1ba68702a23f4ba88099888a0d314
+      internalID: -1089389882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_112
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 910
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50f87671cbc18b488878bc4498b06eb
+      internalID: 2028228846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_113
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 910
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c2bd7b4b50a8b4c884f60caedb621e
+      internalID: -1740645648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_114
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 910
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fd1f9e9a8d01243b486bc2f7fc0861
+      internalID: -1370430750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_115
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 910
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5a13de9cb941b4b8bc079cf9ecfdb7
+      internalID: 201386616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_116
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 910
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd2ed8576d155f4ba6c4dc30090b0e6
+      internalID: 572846438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_117
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 910
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc42540b9ee8944c8f83dcc09d882b6
+      internalID: 1764667449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_118
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 775
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64878e042d4ce9b449995919b09ced4c
+      internalID: -1748530989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_119
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 774
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238ca5153624fa44e840e5bfdd087a0d
+      internalID: 1966261058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_120
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 773
+        width: 75
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8bde895bb2deb42930d32d1435eb4d
+      internalID: -1375142596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_121
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 775
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f912e0c1fd97fbd4087100123011cb1e
+      internalID: 1022250927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_122
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 776
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89bc4a41df3eba4d893bda77153ad51
+      internalID: 1316502956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_123
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 777
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa948ce152057748aaf3cc1b24f7eaa
+      internalID: 1247167546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_124
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 773
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6535e79aeb2f38540a9d0ad88d3dad8f
+      internalID: -894746088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_125
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 775
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941ceff1d550bdc41afd073aff3e3053
+      internalID: 264880042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_126
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 775
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbab644695c32f419ee68f89ef25015
+      internalID: 1346916677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_127
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 776
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eabfa92e3cc7d489a9845badb32719
+      internalID: 710509075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_128
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 777
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc8ca3e4213b1749ab36d5c32325168
+      internalID: -2119368679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_129
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 773
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722be8e8ebf1d3040b31cf50707583f6
+      internalID: -1289487366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_130
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 767
+        width: 80
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf60528350148b47b36b1ad82406773
+      internalID: -1851670775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_131
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 767
+        width: 83
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e253437b93ac6e34e8ef4f83b8723d15
+      internalID: 2140378050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_132
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 767
+        width: 83
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5437e0c3d9121904c95beeb106bf325e
+      internalID: 826600912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_133
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 767
+        width: 83
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f24fa7f4a5ad834d876a7c3a1fae1ae
+      internalID: 1609219506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_134
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 650
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a86c41c879c8a54592fd1192a99f86f
+      internalID: 1619692193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_135
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 650
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0241b76f43214b443b5819838d02b3f5
+      internalID: -1809688941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_136
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 650
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b373b0cd62baefc419ebb1a6f74c6f13
+      internalID: 1687735035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_137
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 650
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4ff6e73d626154d82296cb0c86a7d4
+      internalID: -440556980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_138
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 650
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdcf4a3b3d23e94b946563f14e1b749
+      internalID: -386384798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_139
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 650
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea352183ee655504e87a502de4f442d0
+      internalID: -219345136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_140
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 650
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f68d0b821cbc5f4f8ed80874d55575e
+      internalID: -1218053278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_141
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 654
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5c2f4f91ce17d45a2da3ea1e1303f1
+      internalID: -1328063319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_142
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 653
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c11e8db81ecdd45bf2c90fb7030d9d
+      internalID: -90435659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_143
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 655
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea7bea6e4986334c9845646c4137823
+      internalID: 1394937689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_144
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 654
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69ce78024462f3479481f427e707e66
+      internalID: 1034981793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_145
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 650
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfacf137ddb44643bdf054624e72bd3
+      internalID: 1834178284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_146
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 650
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d647e3fbc4154549bfbf7dcfcb0e7b4
+      internalID: 1834954828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_147
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 650
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2445b0fb8d5687b4f9778522afef9b76
+      internalID: 1679947835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_148
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 650
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c8d6553e5418148990e580344903b3
+      internalID: 1513564231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_149
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 650
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2d2cec879baf24ba68acc66a2fb497
+      internalID: -1391515583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_150
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 536
+        width: 114
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c24ce42de456c4391e47f274d93d85
+      internalID: 438813595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_151
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 516
+        width: 97
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25525f1e835fe2f4fa0cb820c0b31e14
+      internalID: -1717838835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_152
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 520
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc9cc659fa2f5e4d9b293050d210010
+      internalID: -791393258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_153
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 526
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda7e3d94668aa74cbf71596169e5bdd
+      internalID: 1786735430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_154
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 544
+        width: 108
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8d2546069b10c4b84e457824efeebe
+      internalID: 54004622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_155
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 544
+        width: 102
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc722110fbe7e24fbbadbf9f4c776ce
+      internalID: 813328316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_156
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 539
+        width: 98
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6605ced439fde5c4393516e79b56ff6c
+      internalID: -650070341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_157
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 535
+        width: 102
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d868e35ff8148c44a3bc2458895479d
+      internalID: 1227778553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_158
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 532
+        width: 108
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef6128ad02a4dd49a946a429082fc43
+      internalID: -984198261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_159
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 531
+        width: 98
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc977997f2d64d438aac1da3e29af02
+      internalID: -2146811847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_160
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 520
+        width: 105
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c905809ccbbb0e542963d1ef42f6bbe1
+      internalID: -56578370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_161
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 384
+        width: 26
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55985a5288da73a4eb21bc0f4d5e66ed
+      internalID: 1638249259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_162
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 431
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4fe1ed7935c0f4385774bae6a75ffe
+      internalID: -1356284728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_163
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 417
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f718255bfced094694d09fb6ae645c4
+      internalID: 693571234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_164
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 401
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7f6befd2be7b345b23f821e01f6a3e
+      internalID: -965836737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_165
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 389
+        width: 64
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659c974a64918464cbcbd079185d73af
+      internalID: -466450123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_166
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 390
+        width: 31
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112d79412ef97a549b693c902980daee
+      internalID: -409207920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_167
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 390
+        width: 26
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9897da6b93f2d64bb2b9471d81ace75
+      internalID: -1480988914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_168
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 418
+        width: 26
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142985b6f2cbbf547a53e37019acfb4b
+      internalID: -1373338328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_169
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 446
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad3c25d26326014b844acf6b3c0c8be
+      internalID: 370034009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_170
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 471
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5483bd8a994fa478df454076c66137
+      internalID: 1949609961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_171
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 394
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384fffd514d38e941a4829266d2724b6
+      internalID: -253162731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_172
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 390
+        width: 119
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e69cd1ded2582a478a96bbc4c257bf8
+      internalID: 1870482049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_173
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 403
+        width: 84
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e030c3776c54e144b965e4068915f87
+      internalID: 1226801824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_174
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 423
+        width: 119
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d26b3957d440c44be5103e444583d8
+      internalID: -1112337693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_175
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 423
+        width: 120
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b458d23df95dcf4cb23a903a2768f0c
+      internalID: -367741515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_176
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 428
+        width: 120
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7388fe65f4c584849bbc8572f9fe1f20
+      internalID: -29106890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_177
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 299
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97597c8d7f1a49f4aa0f9dae50ac0c9a
+      internalID: 75502725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_178
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 314
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fe1a62b5d91df429503cae10b9a758
+      internalID: 1812174996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_179
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 299
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87edce702439ac64c9217d1363eca6ba
+      internalID: -1718244480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_180
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 318
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144c55764ef703545acedf6f89bb3a05
+      internalID: 1071256552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_181
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 297
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b74e813b130bba4f8319fee56357bb4
+      internalID: 1429476815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_182
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 318
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3323298448e535e42a99e156b64ba130
+      internalID: -788411718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_183
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 294
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b11067db1308e74ca563425dfa22bd2
+      internalID: 1114983693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_184
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 318
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65119e1197ec4f4ca4355ea7b776c54
+      internalID: 451840757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_185
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 292
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bafcaecaf5f854681886461914e181
+      internalID: 1783962643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_186
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 319
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47694e586d801d148be1ee7f4c63ea6f
+      internalID: 944774990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_187
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 295
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd134a8ee4f204b428446b885ab6767d
+      internalID: -1341203814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_188
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 313
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c201c9df8f1ba44f8a9e7a7ef54e9d8
+      internalID: 1088819759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_189
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 292
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9715aa19fb37c040891ca2972e3af5c
+      internalID: 464830301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_190
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 314
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6987ad385a938cb438445b64d23c8702
+      internalID: -269288991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_191
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 293
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fe6e9a5ab24ba499685bab10597742
+      internalID: -1293541571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_192
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 310
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6386eee2d23a4d746ba9877fc869cabd
+      internalID: -871561407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_193
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 293
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43329fb891f5d404e91cf061c95e73eb
+      internalID: -732165945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_194
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 308
+        width: 27
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ef02c6e2e45b14a98d45542c29df72
+      internalID: -337424644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_195
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 293
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eed155d6fc995f438826a181b423b20
+      internalID: 1374842141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_196
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 307
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89d45bd029668b4bb1d3da85f4a469f
+      internalID: 1574792569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_197
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 293
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175a24daf8c2c9b4d881c3de96007575
+      internalID: 1266886962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_198
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 294
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f611096751d7de43afd5a7568a349bb
+      internalID: -1337572332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_199
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 134
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e028d24a134aa4d89366c5da839f92
+      internalID: 1349850242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_200
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 142
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c78581e8a5e0964287866fc938978a5
+      internalID: 55195259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_201
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 134
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e1a57619416074592cba52c632cf31
+      internalID: 248060534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_202
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 135
+        width: 104
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453fbe9baa8e00a4782e23d6329b42b2
+      internalID: 2035074558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_203
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 135
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f491103274889341aa86dd7b2ace92f
+      internalID: -1223546446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_204
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 134
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57bd8ab7ef73c84196466bb690b3681
+      internalID: -2098126851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_205
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 135
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7302f245c6eb9924e84db081938ede15
+      internalID: 1633625800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_206
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 135
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d30a31c0315bb64a9044d7ada372233
+      internalID: 1616020145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_cerulean_207
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 135
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0405aae04dc36b642b75bd3fb4132b17
+      internalID: -1796720651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      char_cerulean_0: -58552365
+      char_cerulean_1: 2032410772
+      char_cerulean_10: -1200507229
+      char_cerulean_100: 176365911
+      char_cerulean_101: -1018999693
+      char_cerulean_102: 587136940
+      char_cerulean_103: 946946081
+      char_cerulean_104: -1088416552
+      char_cerulean_105: 391777733
+      char_cerulean_106: 1055676730
+      char_cerulean_107: -629588461
+      char_cerulean_108: 1053226908
+      char_cerulean_109: -666994469
+      char_cerulean_11: 1103233180
+      char_cerulean_110: -115717435
+      char_cerulean_111: -1089389882
+      char_cerulean_112: 2028228846
+      char_cerulean_113: -1740645648
+      char_cerulean_114: -1370430750
+      char_cerulean_115: 201386616
+      char_cerulean_116: 572846438
+      char_cerulean_117: 1764667449
+      char_cerulean_118: -1748530989
+      char_cerulean_119: 1966261058
+      char_cerulean_12: 109737809
+      char_cerulean_120: -1375142596
+      char_cerulean_121: 1022250927
+      char_cerulean_122: 1316502956
+      char_cerulean_123: 1247167546
+      char_cerulean_124: -894746088
+      char_cerulean_125: 264880042
+      char_cerulean_126: 1346916677
+      char_cerulean_127: 710509075
+      char_cerulean_128: -2119368679
+      char_cerulean_129: -1289487366
+      char_cerulean_13: 31774882
+      char_cerulean_130: -1851670775
+      char_cerulean_131: 2140378050
+      char_cerulean_132: 826600912
+      char_cerulean_133: 1609219506
+      char_cerulean_134: 1619692193
+      char_cerulean_135: -1809688941
+      char_cerulean_136: 1687735035
+      char_cerulean_137: -440556980
+      char_cerulean_138: -386384798
+      char_cerulean_139: -219345136
+      char_cerulean_14: -2130452573
+      char_cerulean_140: -1218053278
+      char_cerulean_141: -1328063319
+      char_cerulean_142: -90435659
+      char_cerulean_143: 1394937689
+      char_cerulean_144: 1034981793
+      char_cerulean_145: 1834178284
+      char_cerulean_146: 1834954828
+      char_cerulean_147: 1679947835
+      char_cerulean_148: 1513564231
+      char_cerulean_149: -1391515583
+      char_cerulean_15: -1441381721
+      char_cerulean_150: 438813595
+      char_cerulean_151: -1717838835
+      char_cerulean_152: -791393258
+      char_cerulean_153: 1786735430
+      char_cerulean_154: 54004622
+      char_cerulean_155: 813328316
+      char_cerulean_156: -650070341
+      char_cerulean_157: 1227778553
+      char_cerulean_158: -984198261
+      char_cerulean_159: -2146811847
+      char_cerulean_16: -1268253033
+      char_cerulean_160: -56578370
+      char_cerulean_161: 1638249259
+      char_cerulean_162: -1356284728
+      char_cerulean_163: 693571234
+      char_cerulean_164: -965836737
+      char_cerulean_165: -466450123
+      char_cerulean_166: -409207920
+      char_cerulean_167: -1480988914
+      char_cerulean_168: -1373338328
+      char_cerulean_169: 370034009
+      char_cerulean_17: 37308259
+      char_cerulean_170: 1949609961
+      char_cerulean_171: -253162731
+      char_cerulean_172: 1870482049
+      char_cerulean_173: 1226801824
+      char_cerulean_174: -1112337693
+      char_cerulean_175: -367741515
+      char_cerulean_176: -29106890
+      char_cerulean_177: 75502725
+      char_cerulean_178: 1812174996
+      char_cerulean_179: -1718244480
+      char_cerulean_18: 1745002431
+      char_cerulean_180: 1071256552
+      char_cerulean_181: 1429476815
+      char_cerulean_182: -788411718
+      char_cerulean_183: 1114983693
+      char_cerulean_184: 451840757
+      char_cerulean_185: 1783962643
+      char_cerulean_186: 944774990
+      char_cerulean_187: -1341203814
+      char_cerulean_188: 1088819759
+      char_cerulean_189: 464830301
+      char_cerulean_19: 1909615279
+      char_cerulean_190: -269288991
+      char_cerulean_191: -1293541571
+      char_cerulean_192: -871561407
+      char_cerulean_193: -732165945
+      char_cerulean_194: -337424644
+      char_cerulean_195: 1374842141
+      char_cerulean_196: 1574792569
+      char_cerulean_197: 1266886962
+      char_cerulean_198: -1337572332
+      char_cerulean_199: 1349850242
+      char_cerulean_2: 354197560
+      char_cerulean_20: -1227818180
+      char_cerulean_200: 55195259
+      char_cerulean_201: 248060534
+      char_cerulean_202: 2035074558
+      char_cerulean_203: -1223546446
+      char_cerulean_204: -2098126851
+      char_cerulean_205: 1633625800
+      char_cerulean_206: 1616020145
+      char_cerulean_207: -1796720651
+      char_cerulean_21: -1870900919
+      char_cerulean_22: -1088812575
+      char_cerulean_23: 151576113
+      char_cerulean_24: -1368131329
+      char_cerulean_25: 2104757437
+      char_cerulean_26: 1064783850
+      char_cerulean_27: 57457894
+      char_cerulean_28: 1759192493
+      char_cerulean_29: 1561408102
+      char_cerulean_3: 457644263
+      char_cerulean_30: -1551638194
+      char_cerulean_31: 259062253
+      char_cerulean_32: 703511060
+      char_cerulean_33: 1277193386
+      char_cerulean_34: 330546542
+      char_cerulean_35: 512662877
+      char_cerulean_36: 1213082459
+      char_cerulean_37: 2073321013
+      char_cerulean_38: 1056402318
+      char_cerulean_39: 1574474523
+      char_cerulean_4: 1249052413
+      char_cerulean_40: -978081608
+      char_cerulean_41: 1339454666
+      char_cerulean_42: -1361952887
+      char_cerulean_43: 1986077555
+      char_cerulean_44: 1211030529
+      char_cerulean_45: 2085044081
+      char_cerulean_46: 1137159261
+      char_cerulean_47: -100318987
+      char_cerulean_48: 2056470516
+      char_cerulean_49: 1399943319
+      char_cerulean_5: 2090074310
+      char_cerulean_50: 1155458498
+      char_cerulean_51: -1440228132
+      char_cerulean_52: -736037144
+      char_cerulean_53: 255051561
+      char_cerulean_54: -65441236
+      char_cerulean_55: 1842280039
+      char_cerulean_56: 74011274
+      char_cerulean_57: -704313774
+      char_cerulean_58: 630641068
+      char_cerulean_59: 1531755908
+      char_cerulean_6: 572790674
+      char_cerulean_60: 1725615227
+      char_cerulean_61: 1157124430
+      char_cerulean_62: -577068520
+      char_cerulean_63: 824098657
+      char_cerulean_64: -538676822
+      char_cerulean_65: 750971404
+      char_cerulean_66: 96269285
+      char_cerulean_67: 212792052
+      char_cerulean_68: -1164199308
+      char_cerulean_69: 1149790180
+      char_cerulean_7: -430541461
+      char_cerulean_70: 1156931658
+      char_cerulean_71: 1785050938
+      char_cerulean_72: -848219535
+      char_cerulean_73: -1895323308
+      char_cerulean_74: 1260971372
+      char_cerulean_75: -1229104669
+      char_cerulean_76: -1463906413
+      char_cerulean_77: -565484143
+      char_cerulean_78: -1570222347
+      char_cerulean_79: -2038668212
+      char_cerulean_8: 681502349
+      char_cerulean_80: -591440439
+      char_cerulean_81: -1216880056
+      char_cerulean_82: 721532324
+      char_cerulean_83: 956553831
+      char_cerulean_84: 780369581
+      char_cerulean_85: 1098016368
+      char_cerulean_86: -1513560157
+      char_cerulean_87: 895645921
+      char_cerulean_88: 1760353994
+      char_cerulean_89: 490752088
+      char_cerulean_9: -1806440302
+      char_cerulean_90: -418084838
+      char_cerulean_91: -1246587693
+      char_cerulean_92: -1249262335
+      char_cerulean_93: 2136185747
+      char_cerulean_94: -1427340188
+      char_cerulean_95: 1789392140
+      char_cerulean_96: 1143635074
+      char_cerulean_97: 1263812147
+      char_cerulean_98: -2061114534
+      char_cerulean_99: -1104803234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
