@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class PlayerController : MonoBehaviour
 {
@@ -28,6 +29,8 @@ public class PlayerController : MonoBehaviour
     string nowAnime = "";
     string oldAnime = "";
 
+
+    public int score = 0; 
 
 
 
@@ -153,13 +156,23 @@ public class PlayerController : MonoBehaviour
         {
             GameOver();
         }
+        else if (collision.gameObject.tag == "ScoreItem")
+        {
+            //점수 아이템
+            //ItemData 가져오기
+            ItemData item = collision.gameObject.GetComponent<ItemData>();
+            //점수 얻기
+            score = item.value;
+            //아이템제거
+            Destroy(collision.gameObject);
+        }
     }
 
     //골
     public void Goal()
     {
         animator.Play(goalAnime);
-        gameState = "gameclear";
+        gameState = "GameClear";
         GameStop(); //게임 중지
     }
     //게임오버
@@ -167,7 +180,7 @@ public class PlayerController : MonoBehaviour
     {
         animator.Play(deadAnime);
 
-        gameState = "gameover";
+        gameState = "GameOver";
         GameStop();
 
 
