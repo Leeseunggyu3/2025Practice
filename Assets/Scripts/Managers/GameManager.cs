@@ -22,10 +22,14 @@ public class GameManager : MonoBehaviour
     TimeController timeCnt;          // TimeController 변수
 
 
-    public GameObject scoreText; //점수 텍스트
-    public static int totalScore; // 점수 총합
-    public int stageScore = 0; //스테이지 점수
+    public GameObject scoreText;    // 점수 텍스트
+    public static int totalScore;   // 점수 총합
+    public int stageScore = 0;      // 스테이지 점수
 
+
+    // 사운드 재생
+    public AudioClip meGameOver;    // 게임 오버
+    public AudioClip meGameClear;   // 게임 클리어
     void Start()
     {
         //이미지 숨기기
@@ -46,7 +50,7 @@ public class GameManager : MonoBehaviour
         }
 
 
-        //점수 추가
+        // 점수 추가
         UpdateScore();
     }
 
@@ -75,10 +79,23 @@ public class GameManager : MonoBehaviour
                 int time = (int)timeCnt.displayTime;
                 totalScore += time * 10; //남은 시간을 점수에 더한다
             }
-            // 점수 추가
+
+
+            // +++++++++++++++++++++++++ 점수 추가
             totalScore += stageScore;
             stageScore = 0;
             UpdateScore(); //점수 갱신
+
+
+            // +++++++++++++++++++++++++ 사운드 재생 추가
+            AudioSource soundPlayer = GetComponent<AudioSource>();
+            if (soundPlayer != null)
+            {
+                //BGM 정지
+                soundPlayer.Stop();
+                soundPlayer.PlayOneShot(meGameClear);
+
+            }
         }
 
 

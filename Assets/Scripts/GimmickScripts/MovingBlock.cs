@@ -7,7 +7,7 @@ public class MovingBlock : MonoBehaviour
     public float moveX = 0.0f;                  // X 이동 거리
     public float moveY = 0.0f;                  // Y 이동 거리
     public float times = 0.0f;                  // 시간
-    public float weight = 0.0f;                 // 정지 시간
+    public float wait = 0.0f;                 // 정지 시간
     public bool isMoveWhenOn = false;           // 올라갔을 때 움직이기
 
     public bool isCanMove = true;
@@ -23,9 +23,8 @@ public class MovingBlock : MonoBehaviour
         defPos = transform.position;
         // 1프레임에 이동하는 시간
         float timestep = Time.fixedDeltaTime;
-        // 1프레임의 X 이동 값
+        // 1프레임에 얼마만큼의 거리를 이동할 것인지 정하는 기능
         perDX = moveX / (1.0f / timestep * times);
-        // 1프레임의 Y 이동 값
         perDY = moveY / (1.0f / timestep * times);
 
 
@@ -103,7 +102,7 @@ public class MovingBlock : MonoBehaviour
                 if (isMoveWhenOn == false)
                 {
                     // 올라갔을 때 움직이는 값이 꺼진 경우
-                    Invoke("Move", weight); // weight만큼 지연 후 다시 이동
+                    Invoke("Move", wait); // wait만큼 지연 후 다시 이동
                 }
             }
 
@@ -127,6 +126,11 @@ public class MovingBlock : MonoBehaviour
     {
         if(collision.gameObject.tag == "Player")
         {
+            if (gameObject.activeInHierarchy)
+            {
+                collision.transform.SetParent(transform);
+            }
+
             /* 접촉한 것이 플레이어라면 이동 블록의 자식으로 만들기 (반대 개념에 가깝다고 봅니다. 플레이어가 이동블록의
              * 자식이 된다기 보다, 블럭이 부모가 되는것이라고 생각합니다. 이건 SetParent가 뭔지 알아야 알겠네요
              */
@@ -143,8 +147,11 @@ public class MovingBlock : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            // 접촉한 것이 플레이어라면 이동 블록의 자식에서 제외시키기
-            collision.transform.SetParent(null);
+            if (gameObject.activeInHierarchy) // 부모가 활성화 상태인지 확인
+            {
+                // 접촉한 것이 플레이어라면 이동 블록의 자식에서 제외시키기
+                collision.transform.SetParent(null);
+            }
         }
     }
 }
